@@ -27,6 +27,10 @@ Each ball you eat is worth one point. The more balls you eat, the higher your sc
 
 To build the game, you will need to have Node.js installed on your computer. Once you have Node.js installed, you can clone the repository and run the following command:
 
+## Contributing
+
+I am always looking for ways to improve the Snake Pong. If you have any suggestions, please feel free to create an issue on GitHub. You can also contribute to the code by creating a pull request.
+
 ## Credits
 
 This project was created by San-77x.
