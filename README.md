@@ -27,3 +27,6 @@ Each ball you eat is worth one point. The more balls you eat, the higher your sc
 
 To build the game, you will need to have Node.js installed on your computer. Once you have Node.js installed, you can clone the repository and run the following command:
 
+## Credits
+
+This project was created by San-77x.
