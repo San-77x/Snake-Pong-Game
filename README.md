@@ -1,4 +1,4 @@
-# Snake Pong Game
+# Snake Pong Game ( Currently on development Mode )
 
 
 Welcome to the Snake Pong game! This is a retro-inspired arcade game that combines the classic gameplay of Snake with the fast-paced action of Pong.
